@@ -1,5 +1,5 @@
 # Models of the SQM paradigm with RNNs in TensorFlow
-Conducted with the [laboratory of Psychophysics, EPFL, Switzerland](https://www.epfl.ch/labs/lpsy/)
+With the [laboratory of Psychophysics, EPFL, Switzerland](https://www.epfl.ch/labs/lpsy/)
 
 
 This project aims at modelling visual grouping with the Sequential Metacontrast Paradigm (a vision paradigm).
